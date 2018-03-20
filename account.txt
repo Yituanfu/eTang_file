@@ -1,2 +1,8 @@
-MAC电脑管理员：账号：eTang 密码：eTang   用户：yituanf 密码：空格 
-WI-FI  名称：eTang/eTang5G    密码：0220059
+MAC电脑管理员：       账号：eTang 密码：eTang     用户：yituanf 密码：空格 
+无线                账号：eTang/eTang5G        密码：0220059
+苹果开发者           账号：it@etangbio.com      密码：SHEtang88
+环信                账号：it@etangbio.com      密码：SHetang2017
+友盟                账号：it@etangbio.com      密码：SHetang2017
+腾讯开放平台          账号：3403893852           密码：SHETANG1234
+svn                账号：yituanfu              密码：ytf@123
+接口文档             账号：18020280464          密码：280464
